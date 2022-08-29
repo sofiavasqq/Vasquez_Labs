@@ -1,2 +1,2 @@
-# Vasquez_Lab1
+# SVasquez_Labs
 STA2023 Lab 1
